@@ -1,0 +1,4 @@
+googleapis-common-protos
+google-cloud-storage
+google-cloud-pubsub
+google-cloud
